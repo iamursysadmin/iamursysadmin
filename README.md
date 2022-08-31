@@ -1,8 +1,10 @@
 ### hi **iamursysadmin 📟**
 
-- i develop performant && secure web applications
-- web applications penetration testing && assesment
-- 13+ years @ it
+i develop performant && secure web applications
+
+web applications penetration testing && assesment
+
+13+ years @ it
 
 - I <3 linux
 - machine_stack: typescript/javascript | go | php | python | bash
