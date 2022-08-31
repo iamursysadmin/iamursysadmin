@@ -1,9 +1,12 @@
-### Hi **iamursysadmin 📟**
+### hi **iamursysadmin 📟**
 
-I develop performant && secure web applications && web application penetration assesment for 13+ years
+- i develop performant && secure web applications
+- web applications penetration testing && assesment
+- 13+ years @ it
 
 - I <3 linux
-- tech_stack: typescript/javascript | go | php | python | bash
+- machine_stack: typescript/javascript | go | php | python | bash
+- hoomans_stack: english | spanish | catalan | arabic
 
-
+- learning 🇮🇹
 - ⚡ fun fact: there's no best programming language && aws sucks. deal with it
